@@ -22,4 +22,4 @@ function friendNumber(number1,number2) {
     }
 }
 
-friendNumber(220,284)
+friendNumber(220,284)   
